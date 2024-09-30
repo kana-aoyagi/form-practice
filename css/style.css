@@ -13,6 +13,7 @@ input, select, button {
 .wrapper {
   width: 100%;
   background: #cff1ff;
+  padding: 60px;
 }
 
 .inner {
@@ -53,9 +54,9 @@ input, select, button {
 }
 
 .form-wrap {
-  padding: 50px;
+  padding: 60px;
   background: #ecfaff;
-  margin-top: 60px;
+  margin: 60px;
 }
 
 .form-title {
